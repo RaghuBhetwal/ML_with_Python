@@ -1,0 +1,768 @@
+"StageRank","Stage","Rider","Team","RiderCountry","StageGap","StageTime","OverallRank","OverallGap","OverallTime"
+1,1,"GREIPEL, André ","Lotto Soudal","GER",0,13821,1,0,13811
+2,1,"EWAN, Caleb ","Mitchelton-SCOTT","AUS",0,13821,2,4,13815
+3,1,"SAGAN, Peter ","BORA - hansgrohe","SVK",0,13821,4,6,13817
+4,1,"VIVIANI, Elia ","Quick - Step Floors","ITA",0,13821,8,10,13821
+5,1,"CONSONNI, Simone ","UAE Team Emirates","ITA",0,13821,9,10,13821
+6,1,"BAUHAUS, Phil ","Team Sunweb","GER",0,13821,10,10,13821
+7,1,"HAAS, Nathan ","Team Katusha-Alpecin","AUS",0,13821,6,9,13820
+8,1,"MONTAGUTI, Mattéo ","Ag2R La Mondiale","ITA",0,13821,11,10,13821
+9,1,"NAVARDAUSKAS, Ramunas ","Bahrain - Merida","LTU",0,13821,12,10,13821
+10,1,"MINALI, Riccardo ","Astana Pro Team","ITA",0,13821,13,10,13821
+11,1,"BEVIN, Patrick ","BMC Racing Team","NZL",0,13821,14,10,13821
+12,1,"BATTAGLIN, Enrico ","Team Lotto NL - Jumbo","ITA",0,13821,15,10,13821
+13,1,"IMPEY, Daryl ","Mitchelton-SCOTT","RSA",0,13821,16,10,13821
+14,1,"LAWLESS, Christopher ","Team Sky","GBR",0,13821,17,10,13821
+15,1,"PEDERSEN, Mads ","Trek - Segafredo","DEN",0,13821,18,10,13821
+16,1,"WELSFORD, Sam ","UniSA-Australia","AUS",0,13821,19,10,13821
+17,1,"MCCARTHY, Jay ","BORA - hansgrohe","AUS",0,13821,20,10,13821
+18,1,"SELIG, Rüdiger ","BORA - hansgrohe","GER",0,13821,21,10,13821
+19,1,"BEPPU, Fumiyuki ","Trek - Segafredo","JPN",0,13821,22,10,13821
+20,1,"DUCHESNE, Antoine ","FDJ","CAN",0,13821,23,10,13821
+21,1,"PETERS, Nans ","Ag2R La Mondiale","FRA",0,13821,24,10,13821
+22,1,"BENNETT, George ","Team Lotto NL - Jumbo","NZL",0,13821,25,10,13821
+23,1,"BARBERO, Carlos ","Movistar Team","ESP",0,13821,26,10,13821
+24,1,"RENSHAW, Mark ","Team Dimension Data for Qhubeka","AUS",0,13821,27,10,13821
+25,1,"VON HOFF, Steele ","UniSA-Australia","AUS",0,13821,28,10,13821
+26,1,"OOMEN, Sam ","Team Sunweb","NED",0,13821,29,10,13821
+27,1,"PREIDLER, Georg ","FDJ","AUT",0,13821,30,10,13821
+28,1,"ROUX, Anthony ","FDJ","FRA",0,13821,31,10,13821
+29,1,"CHEREL, Mikael ","Ag2R La Mondiale","FRA",0,13821,32,10,13821
+30,1,"GESINK, Robert ","Team Lotto NL - Jumbo","BEL",0,13821,33,10,13821
+31,1,"FERNANDEZ, Ruben ","Movistar Team","ESP",0,13821,34,10,13821
+32,1,"ULISSI, Diego ","UAE Team Emirates","ITA",0,13821,35,10,13821
+33,1,"SCHMIDT, Mads Würtz ","Team Katusha-Alpecin","DEN",0,13821,36,10,13821
+34,1,"SABATINI, Fabio ","Quick - Step Floors","ITA",0,13821,37,10,13821
+35,1,"MORABITO, Steve ","FDJ","SUI",0,13821,38,10,13821
+36,1,"DOMONT, Axel ","Ag2R La Mondiale","FRA",0,13821,39,10,13821
+37,1,"HAMILTON, Christopher ","Team Sunweb","AUS",0,13821,40,10,13821
+38,1,"OWEN, Logan ","Team EF Education First-Drapac p/b Cannondale","USA",0,13821,41,10,13821
+39,1,"COSTA, Rui ","UAE Team Emirates","POR",0,13821,42,10,13821
+40,1,"BERNAL, Egan ","Team Sky","COL",0,13821,43,10,13821
+41,1,"ZAKHAROV, Artyom ","Astana Pro Team","KAZ",0,13821,44,10,13821
+42,1,"SIEBERG, Marcel ","Lotto Soudal","GER",0,13821,45,10,13821
+43,1,"RESTREPO, Jhonatan ","Team Katusha-Alpecin","COL",0,13821,7,9,13820
+44,1,"CLARKE, Simon ","Team EF Education First-Drapac p/b Cannondale","AUS",0,13821,46,10,13821
+45,1,"IZAGIRRE, Ion ","Bahrain - Merida","ESP",0,13821,47,10,13821
+46,1,"DOCKER, Mitchell ","Team EF Education First-Drapac p/b Cannondale","AUS",0,13821,48,10,13821
+47,1,"EDMONDSON, Alexander ","Mitchelton-SCOTT","AUS",0,13821,49,10,13821
+48,1,"DE VRESSE, Laurens ","Astana Pro Team","BEL",0,13821,50,10,13821
+49,1,"SANCHEZ, Luis León ","Astana Pro Team","ESP",0,13821,51,10,13821
+50,1,"SLAGTER, Tom-Jelte ","Team Dimension Data for Qhubeka","NED",0,13821,52,10,13821
+51,1,"LATOUR, Pierre ","Ag2R La Mondiale","FRA",0,13821,53,10,13821
+52,1,"MARCATO, Marco ","UAE Team Emirates","ITA",0,13821,54,10,13821
+53,1,"OLIVIER, Daan ","Team Lotto NL - Jumbo","NED",0,13821,55,10,13821
+54,1,"WYSS, Danilo ","BMC Racing Team","SUI",0,13821,56,10,13821
+55,1,"DEBUSSCHERE, Jens ","Lotto Soudal","BEL",0,13821,57,10,13821
+56,1,"CANTY, Brendan ","Team EF Education First-Drapac p/b Cannondale","AUS",0,13821,58,10,13821
+57,1,"BOHLI, Tom ","BMC Racing Team","SUI",0,13821,59,10,13821
+58,1,"EARLE, Nathan ","UniSA-Australia","AUS",0,13821,60,10,13821
+59,1,"PORTE, Richie ","BMC Racing Team","AUS",0,13821,61,10,13821
+60,1,"BOARO, Manuele ","Bahrain - Merida","ITA",0,13821,62,10,13821
+61,1,"MORI, Manuele ","UAE Team Emirates","ITA",0,13821,63,10,13821
+62,1,"EG, Niklas ","Trek - Segafredo","DEN",0,13821,64,10,13821
+63,1,"MACHADO, Tiago ","Team Katusha-Alpecin","POR",0,13821,65,10,13821
+64,1,"VANDENBERGH, Stijn ","Ag2R La Mondiale","BEL",0,13821,66,10,13821
+65,1,"GERRANS, Simon ","BMC Racing Team","AUS",0,13821,67,10,13821
+66,1,"GUERREIRO, Ruben ","Trek - Segafredo","POR",0,13821,68,10,13821
+67,1,"BAK YTTING, Lars ","Lotto Soudal","DEN",0,13821,69,10,13821
+68,1,"ARASHIRO, Yukiya ","Bahrain - Merida","JPN",0,13821,70,10,13821
+69,1,"AGNOLI, Valerio ","Bahrain - Merida","ITA",0,13821,71,10,13821
+70,1,"DAVIES, Scott ","Team Dimension Data for Qhubeka","GBR",0,13821,72,10,13821
+71,1,"LADAGNOUS, Matthieu ","FDJ","FRA",0,13821,73,10,13821
+72,1,"POZZOVIVO, Domenico ","Bahrain - Merida","ITA",0,13821,74,10,13821
+73,1,"DEVENYNS, Dries ","Quick - Step Floors","BEL",0,13821,75,10,13821
+74,1,"MORKOV, Michael ","Quick - Step Floors","DEN",0,13821,76,10,13821
+75,1,"MATOS, Nuno ","Movistar Team","POR",0,13821,77,10,13821
+76,1,"SOLER, Marc ","Movistar Team","ESP",0,13821,78,10,13821
+77,1,"HANSEN, Adam ","Lotto Soudal","AUS",0,13821,79,10,13821
+78,1,"DLAMINI, Nicholas ","Team Dimension Data for Qhubeka","RSA",0,13821,5,6,13817
+79,1,"GONÇALVES, José ","Team Katusha-Alpecin","POR",0,13821,80,10,13821
+80,1,"MORTON, Lachlan ","Team Dimension Data for Qhubeka","AUS",0,13821,81,10,13821
+81,1,"O'CONNOR, Ben ","Team Dimension Data for Qhubeka","AUS",0,13821,82,10,13821
+82,1,"IZAGUIRRE, Gorka ","Bahrain - Merida","ESP",0,13821,83,10,13821
+83,1,"FERRARI, Roberto ","UAE Team Emirates","ITA",0,13821,84,10,13821
+84,1,"MAS NICOLAU, Enric ","Quick - Step Floors","ESP",0,13821,85,10,13821
+85,1,"VALGREN ANDERSEN, Michael ","Astana Pro Team","Den",0,13821,86,10,13821
+86,1,"DIDIER, Laurent ","Trek - Segafredo","LUX",0,13821,87,10,13821
+87,1,"KOCHETKOV, Pavel ","Team Katusha-Alpecin","RUS",0,13821,88,10,13821
+88,1,"GASTAUER, Ben ","Ag2R La Mondiale","LUX",0,13821,89,10,13821
+89,1,"DENNIS, Rohan ","BMC Racing Team","AUS",0,13821,90,10,13821
+90,1,"LAMMERTINK, Maurits ","Team Katusha-Alpecin","NED",0,13821,91,10,13821
+91,1,"CLARKE, William ","Team EF Education First-Drapac p/b Cannondale","AUS",0,13821,3,4,13815
+92,1,"CASTRILLO, Jaime ","Movistar Team","ESP",0,13821,92,10,13821
+93,1,"DE KORT, Koen ","Trek - Segafredo","NED",0,13821,93,10,13821
+94,1,"OLIVEIRA, Nelson ","Movistar Team","POR",0,13821,94,10,13821
+95,1,"SÜTTERLIN, Jasha ","Movistar Team","GER",0,13821,95,10,13821
+96,1,"SCULLY, Tom ","Team EF Education First-Drapac p/b Cannondale","NZL",0,13821,96,10,13821
+97,1,"WYNANTS, Maarten ","Team Lotto NL - Jumbo","NED",0,13821,97,10,13821
+98,1,"MORENO, Daniel ","Team EF Education First-Drapac p/b Cannondale","ESP",0,13821,98,10,13821
+99,1,"PUCCIO, Salvatore ","Team Sky","ITA",0,13821,99,10,13821
+100,1,"PORTER, Alex ","UniSA-Australia","AUS",0,13821,100,10,13821
+101,1,"MEYER, Cam ","Mitchelton-SCOTT","AUS",0,13821,101,10,13821
+102,1,"DEMPSTER, Zak ","UniSA-Australia","AUS",0,13821,102,10,13821
+103,1,"DOULL, Owain ","Team Sky","GBR",0,13821,103,10,13821
+104,1,"ROE, Tim ","UniSA-Australia","AUS",0,13821,104,10,13821
+105,1,"DE GENDT, Thomas ","Lotto Soudal","BEL",0,13821,105,10,13821
+106,1,"BONO, Matteo ","UAE Team Emirates","ITA",0,13821,106,10,13821
+107,1,"BOWDEN, Scott ","UniSA-Australia","AUS",0,13821,107,10,13821
+108,1,"GATTO, Oscar ","Astana Pro Team","ITA",0,13821,108,10,13821
+109,1,"SCOTSON, Miles ","BMC Racing Team","AUS",0,13821,109,10,13821
+110,1,"DIBBEN, Jonathan ","Team Sky","GBR",0,13821,110,10,13821
+111,1,"KORSÆTH, Truls ","Astana Pro Team","NOR",0,13821,111,10,13821
+112,1,"CAPECCHI, Eros ","Quick - Step Floors","ITA",0,13821,112,10,13821
+113,1,"KENNAUGH, Peter ","BORA - hansgrohe","GBR",0,13821,113,10,13821
+114,1,"VENTER, Jaco ","Team Dimension Data for Qhubeka","RSA",0,13821,114,10,13821
+115,1,"LEEZER, Thomas ","Team Lotto NL - Jumbo","NED",0,13821,115,10,13821
+116,1,"TEUNISSEN, Mike ","Team Sunweb","NED",16,13837,117,26,13837
+117,1,"HOWSON, Damien ","Mitchelton-SCOTT","AUS",18,13839,118,28,13839
+118,1,"HAYMAN, Mathew ","Mitchelton-SCOTT","AUS",18,13839,119,28,13839
+119,1,"CIMOLAI, Davide ","FDJ","ITA",24,13845,120,34,13845
+120,1,"WISNIOWSKI, Lukasz ","Team Sky","POL",24,13845,121,34,13845
+121,1,"OSS, Daniel ","BORA - hansgrohe","ITA",24,13845,122,34,13845
+122,1,"HAGA, Chad ","Team Sunweb","USA",26,13847,123,36,13847
+123,1,"ARNDT, Nikias ","Team Sunweb","GER",28,13849,124,38,13849
+124,1,"FRAME, Alex ","Trek - Segafredo","NZL",28,13849,125,38,13849
+125,1,"BAUER, Jack ","Mitchelton-SCOTT","NZL",55,13876,126,65,13876
+126,1,"SENECHAL, Florian ","Quick - Step Floors","FRA",55,13876,127,65,13876
+127,1,"STORER, Michael ","Team Sunweb","AUS",108,13929,128,118,13929
+128,1,"BODNAR, Maciej ","BORA - hansgrohe","POL",117,13938,129,127,13938
+129,1,"WAGNER, Robert ","Team Lotto NL - Jumbo","GER",133,13954,130,143,13954
+130,1,"BENNETT, Sam ","BORA - hansgrohe","IRL",216,14037,131,226,14037
+131,1,"HOELGAARD, Daniel ","FDJ","NOR",216,14037,116,10,13821
+1,2,"EWAN, Caleb ","Mitchelton-SCOTT","AUS",0,14635,1,0,28440
+2,2,"IMPEY, Daryl ","Mitchelton-SCOTT","RSA",0,14635,2,10,28450
+3,2,"MCCARTHY, Jay ","BORA - hansgrohe","AUS",0,14635,4,12,28452
+4,2,"SAGAN, Peter ","BORA - hansgrohe","SVK",0,14635,3,12,28452
+5,2,"HAAS, Nathan ","Team Katusha-Alpecin","AUS",0,14635,5,15,28455
+6,2,"VIVIANI, Elia ","Quick - Step Floors","ITA",0,14635,7,16,28456
+7,2,"IZAGUIRRE, Gorka ","Bahrain - Merida","ESP",0,14635,27,16,28456
+8,2,"POZZOVIVO, Domenico ","Bahrain - Merida","ITA",0,14635,25,16,28456
+9,2,"SANCHEZ, Luis León ","Astana Pro Team","ESP",0,14635,16,16,28456
+10,2,"BARBERO, Carlos ","Movistar Team","ESP",0,14635,9,16,28456
+11,2,"LATOUR, Pierre ","Ag2R La Mondiale","FRA",0,14635,18,16,28456
+12,2,"ROUX, Anthony ","FDJ","FRA",0,14635,10,16,28456
+13,2,"ULISSI, Diego ","UAE Team Emirates","ITA",0,14635,11,16,28456
+14,2,"MORENO, Daniel ","Team EF Education First-Drapac p/b Cannondale","ESP",0,14635,37,16,28456
+15,2,"DENNIS, Rohan ","BMC Racing Team","AUS",0,14635,34,16,28456
+16,2,"ROE, Tim ","UniSA-Australia","AUS",0,14635,40,16,28456
+17,2,"CONSONNI, Simone ","UAE Team Emirates","ITA",0,14635,8,16,28456
+18,2,"IZAGIRRE, Ion ","Bahrain - Merida","ESP",0,14635,19,16,28456
+19,2,"COSTA, Rui ","UAE Team Emirates","POR",0,14635,17,16,28456
+20,2,"GESINK, Robert ","Team Lotto NL - Jumbo","BEL",0,14635,12,16,28456
+21,2,"DEVENYNS, Dries ","Quick - Step Floors","BEL",0,14635,31,16,28456
+22,2,"PORTE, Richie ","BMC Racing Team","AUS",0,14635,26,16,28456
+23,2,"SLAGTER, Tom-Jelte ","Team Dimension Data for Qhubeka","NED",0,14635,22,16,28456
+24,2,"GUERREIRO, Ruben ","Trek - Segafredo","POR",0,14635,28,16,28456
+25,2,"BERNAL, Egan ","Team Sky","COL",0,14635,21,16,28456
+26,2,"SOLER, Marc ","Movistar Team","ESP",0,14635,33,16,28456
+27,2,"OOMEN, Sam ","Team Sunweb","NED",0,14635,13,16,28456
+28,2,"VALGREN ANDERSEN, Michael ","Astana Pro Team","Den",0,14635,38,16,28456
+29,2,"PREIDLER, Georg ","FDJ","AUT",0,14635,15,16,28456
+30,2,"MAS NICOLAU, Enric ","Quick - Step Floors","ESP",0,14635,39,16,28456
+31,2,"DAVIES, Scott ","Team Dimension Data for Qhubeka","GBR",0,14635,32,16,28456
+32,2,"MEYER, Cam ","Mitchelton-SCOTT","AUS",0,14635,44,16,28456
+33,2,"BENNETT, George ","Team Lotto NL - Jumbo","NZL",0,14635,14,16,28456
+34,2,"EARLE, Nathan ","UniSA-Australia","AUS",0,14635,29,16,28456
+35,2,"CHEREL, Mikael ","Ag2R La Mondiale","FRA",0,14635,20,16,28456
+36,2,"HAMILTON, Christopher ","Team Sunweb","AUS",0,14635,23,16,28456
+37,2,"CANTY, Brendan ","Team EF Education First-Drapac p/b Cannondale","AUS",0,14635,30,16,28456
+38,2,"BAK YTTING, Lars ","Lotto Soudal","DEN",0,14635,36,16,28456
+39,2,"RESTREPO, Jhonatan ","Team Katusha-Alpecin","COL",0,14635,6,15,28455
+40,2,"TEUNISSEN, Mike ","Team Sunweb","NED",0,14635,53,32,28472
+41,2,"CAPECCHI, Eros ","Quick - Step Floors","ITA",0,14635,47,16,28456
+42,2,"EG, Niklas ","Trek - Segafredo","DEN",0,14635,35,16,28456
+43,2,"FERNANDEZ, Ruben ","Movistar Team","ESP",0,14635,24,16,28456
+44,2,"DOULL, Owain ","Team Sky","GBR",0,14635,46,16,28456
+45,2,"GASTAUER, Ben ","Ag2R La Mondiale","LUX",0,14635,45,16,28456
+46,2,"DIDIER, Laurent ","Trek - Segafredo","LUX",0,14635,43,16,28456
+47,2,"O'CONNOR, Ben ","Team Dimension Data for Qhubeka","AUS",0,14635,41,16,28456
+48,2,"MORTON, Lachlan ","Team Dimension Data for Qhubeka","AUS",0,14635,42,16,28456
+49,2,"PUCCIO, Salvatore ","Team Sky","ITA",11,14646,49,27,28467
+50,2,"DE VRESSE, Laurens ","Astana Pro Team","BEL",13,14648,50,29,28469
+51,2,"HANSEN, Adam ","Lotto Soudal","AUS",13,14648,51,29,28469
+52,2,"CLARKE, William ","Team EF Education First-Drapac p/b Cannondale","AUS",13,14648,48,17,28457
+53,2,"ZAKHAROV, Artyom ","Astana Pro Team","KAZ",16,14651,52,32,28472
+54,2,"WYNANTS, Maarten ","Team Lotto NL - Jumbo","NED",27,14662,54,43,28483
+55,2,"MORI, Manuele ","UAE Team Emirates","ITA",32,14667,56,48,28488
+56,2,"VANDENBERGH, Stijn ","Ag2R La Mondiale","BEL",32,14667,58,48,28488
+57,2,"BEPPU, Fumiyuki ","Trek - Segafredo","JPN",32,14667,55,48,28488
+58,2,"GERRANS, Simon ","BMC Racing Team","AUS",32,14667,59,48,28488
+59,2,"BOHLI, Tom ","BMC Racing Team","SUI",32,14667,57,48,28488
+60,2,"SCOTSON, Miles ","BMC Racing Team","AUS",32,14667,61,48,28488
+61,2,"OLIVEIRA, Nelson ","Movistar Team","POR",32,14667,60,48,28488
+62,2,"SÜTTERLIN, Jasha ","Movistar Team","GER",40,14675,63,56,28496
+63,2,"OLIVIER, Daan ","Team Lotto NL - Jumbo","NED",40,14675,62,56,28496
+64,2,"DE KORT, Koen ","Trek - Segafredo","NED",50,14685,64,66,28506
+65,2,"MACHADO, Tiago ","Team Katusha-Alpecin","POR",54,14689,66,70,28510
+66,2,"BEVIN, Patrick ","BMC Racing Team","NZL",54,14689,65,70,28510
+67,2,"LEEZER, Thomas ","Team Lotto NL - Jumbo","NED",58,14693,67,74,28514
+68,2,"VON HOFF, Steele ","UniSA-Australia","AUS",63,14698,68,79,28519
+69,2,"CLARKE, Simon ","Team EF Education First-Drapac p/b Cannondale","AUS",64,14699,69,80,28520
+70,2,"MATOS, Nuno ","Movistar Team","POR",64,14699,70,80,28520
+71,2,"BATTAGLIN, Enrico ","Team Lotto NL - Jumbo","ITA",73,14708,71,89,28529
+72,2,"ARNDT, Nikias ","Team Sunweb","GER",75,14710,72,119,28559
+73,2,"HAYMAN, Mathew ","Mitchelton-SCOTT","AUS",102,14737,76,136,28576
+74,2,"BAUER, Jack ","Mitchelton-SCOTT","NZL",102,14737,79,173,28613
+75,2,"DEMPSTER, Zak ","UniSA-Australia","AUS",106,14741,73,122,28562
+76,2,"MARCATO, Marco ","UAE Team Emirates","ITA",109,14744,74,125,28565
+77,2,"BONO, Matteo ","UAE Team Emirates","ITA",109,14744,75,125,28565
+78,2,"SCULLY, Tom ","Team EF Education First-Drapac p/b Cannondale","NZL",129,14764,77,145,28585
+79,2,"WYSS, Danilo ","BMC Racing Team","SUI",138,14773,78,154,28594
+80,2,"OSS, Daniel ","BORA - hansgrohe","ITA",163,14798,84,203,28643
+81,2,"MORKOV, Michael ","Quick - Step Floors","DEN",163,14798,80,179,28619
+82,2,"AGNOLI, Valerio ","Bahrain - Merida","ITA",166,14801,81,182,28622
+83,2,"ARASHIRO, Yukiya ","Bahrain - Merida","JPN",166,14801,82,182,28622
+84,2,"LAMMERTINK, Maurits ","Team Katusha-Alpecin","NED",183,14818,83,199,28639
+85,2,"HOWSON, Damien ","Mitchelton-SCOTT","AUS",201,14836,87,235,28675
+86,2,"EDMONDSON, Alexander ","Mitchelton-SCOTT","AUS",201,14836,85,217,28657
+87,2,"GONÇALVES, José ","Team Katusha-Alpecin","POR",206,14841,86,222,28662
+88,2,"HAGA, Chad ","Team Sunweb","USA",208,14843,93,250,28690
+89,2,"DE GENDT, Thomas ","Lotto Soudal","BEL",226,14861,91,242,28682
+90,2,"KOCHETKOV, Pavel ","Team Katusha-Alpecin","RUS",226,14861,90,242,28682
+91,2,"MONTAGUTI, Mattéo ","Ag2R La Mondiale","ITA",226,14861,88,242,28682
+92,2,"PETERS, Nans ","Ag2R La Mondiale","FRA",226,14861,89,242,28682
+93,2,"GATTO, Oscar ","Astana Pro Team","ITA",226,14861,92,242,28682
+94,2,"VENTER, Jaco ","Team Dimension Data for Qhubeka","RSA",315,14950,94,331,28771
+95,2,"PORTER, Alex ","UniSA-Australia","AUS",337,14972,96,353,28793
+96,2,"MINALI, Riccardo ","Astana Pro Team","ITA",337,14972,95,353,28793
+97,2,"KENNAUGH, Peter ","BORA - hansgrohe","GBR",351,14986,97,367,28807
+98,2,"STORER, Michael ","Team Sunweb","AUS",361,14996,106,485,28925
+99,2,"DOCKER, Mitchell ","Team EF Education First-Drapac p/b Cannondale","AUS",361,14996,98,377,28817
+100,2,"KORSÆTH, Truls ","Astana Pro Team","NOR",361,14996,99,377,28817
+101,2,"LAWLESS, Christopher ","Team Sky","GBR",441,15076,101,457,28897
+102,2,"WISNIOWSKI, Lukasz ","Team Sky","POL",441,15076,105,481,28921
+103,2,"SABATINI, Fabio ","Quick - Step Floors","ITA",441,15076,103,457,28897
+104,2,"GREIPEL, André ","Lotto Soudal","GER",441,15076,100,447,28887
+105,2,"RENSHAW, Mark ","Team Dimension Data for Qhubeka","AUS",441,15076,102,457,28897
+106,2,"DOMONT, Axel ","Ag2R La Mondiale","FRA",441,15076,104,457,28897
+107,2,"SCHMIDT, Mads Würtz ","Team Katusha-Alpecin","DEN",511,15146,107,527,28967
+108,2,"SIEBERG, Marcel ","Lotto Soudal","GER",595,15230,113,611,29051
+109,2,"WAGNER, Robert ","Team Lotto NL - Jumbo","GER",595,15230,118,744,29184
+110,2,"DUCHESNE, Antoine ","FDJ","CAN",595,15230,110,611,29051
+111,2,"CASTRILLO, Jaime ","Movistar Team","ESP",595,15230,109,608,29048
+112,2,"SELIG, Rüdiger ","BORA - hansgrohe","GER",595,15230,111,611,29051
+113,2,"DLAMINI, Nicholas ","Team Dimension Data for Qhubeka","RSA",595,15230,108,607,29047
+114,2,"SENECHAL, Florian ","Quick - Step Floors","FRA",595,15230,116,666,29106
+115,2,"LADAGNOUS, Matthieu ","FDJ","FRA",595,15230,115,611,29051
+116,2,"DEBUSSCHERE, Jens ","Lotto Soudal","BEL",595,15230,114,611,29051
+117,2,"PEDERSEN, Mads ","Trek - Segafredo","DEN",595,15230,112,611,29051
+118,2,"OWEN, Logan ","Team EF Education First-Drapac p/b Cannondale","USA",669,15304,117,685,29125
+119,2,"BODNAR, Maciej ","BORA - hansgrohe","POL",669,15304,119,802,29242
+120,2,"BAUHAUS, Phil ","Team Sunweb","GER",889,15524,121,905,29345
+121,2,"FRAME, Alex ","Trek - Segafredo","NZL",889,15524,124,933,29373
+122,2,"BOARO, Manuele ","Bahrain - Merida","ITA",889,15524,123,905,29345
+123,2,"MORABITO, Steve ","FDJ","SUI",889,15524,122,905,29345
+124,2,"BOWDEN, Scott ","UniSA-Australia","AUS",889,15524,120,902,29342
+125,2,"BENNETT, Sam ","BORA - hansgrohe","IRL",889,15524,125,1121,29561
+126,2,"FERRARI, Roberto ","UAE Team Emirates","ITA",1166,15801,126,1182,29622
+127,2,"NAVARDAUSKAS, Ramunas ","Bahrain - Merida","LTU",1451,16086,127,1467,29907
+128,2,"CIMOLAI, Davide ","FDJ","ITA",1451,16086,130,1491,29931
+129,2,"WELSFORD, Sam ","UniSA-Australia","AUS",1451,16086,128,1467,29907
+130,2,"DIBBEN, Jonathan ","Team Sky","GBR",1451,16086,129,1467,29907
+1,3,"VIVIANI, Elia ","Quick - Step Floors","ITA",0,11080,2,10,39526
+2,3,"BAUHAUS, Phil ","Team Sunweb","GER",0,11080,120,903,40419
+3,3,"EWAN, Caleb ","Mitchelton-SCOTT","AUS",0,11080,1,0,39516
+4,3,"CONSONNI, Simone ","UAE Team Emirates","ITA",0,11080,8,20,39536
+5,3,"SAGAN, Peter ","BORA - hansgrohe","SVK",0,11080,5,16,39532
+6,3,"CLARKE, Simon ","Team EF Education First-Drapac p/b Cannondale","AUS",0,11080,65,84,39600
+7,3,"EDMONDSON, Alexander ","Mitchelton-SCOTT","AUS",0,11080,83,221,39737
+8,3,"DEMPSTER, Zak ","UniSA-Australia","AUS",0,11080,70,126,39642
+9,3,"DEVENYNS, Dries ","Quick - Step Floors","BEL",0,11080,19,20,39536
+10,3,"MCCARTHY, Jay ","BORA - hansgrohe","AUS",0,11080,4,15,39531
+11,3,"OSS, Daniel ","BORA - hansgrohe","ITA",0,11080,82,207,39723
+12,3,"IZAGUIRRE, Gorka ","Bahrain - Merida","ESP",0,11080,17,20,39536
+13,3,"GESINK, Robert ","Team Lotto NL - Jumbo","BEL",0,11080,9,20,39536
+14,3,"SELIG, Rüdiger ","BORA - hansgrohe","GER",0,11080,108,615,40131
+15,3,"PEDERSEN, Mads ","Trek - Segafredo","DEN",0,11080,109,615,40131
+16,3,"SANCHEZ, Luis León ","Astana Pro Team","ESP",0,11080,12,20,39536
+17,3,"MINALI, Riccardo ","Astana Pro Team","ITA",0,11080,89,357,39873
+18,3,"RESTREPO, Jhonatan ","Team Katusha-Alpecin","COL",0,11080,7,19,39535
+19,3,"IMPEY, Daryl ","Mitchelton-SCOTT","RSA",0,11080,3,14,39530
+20,3,"HAAS, Nathan ","Team Katusha-Alpecin","AUS",0,11080,6,17,39533
+21,3,"MARCATO, Marco ","UAE Team Emirates","ITA",0,11080,72,129,39645
+22,3,"GUERREIRO, Ruben ","Trek - Segafredo","POR",0,11080,22,20,39536
+23,3,"ROUX, Anthony ","FDJ","FRA",0,11080,10,20,39536
+24,3,"ULISSI, Diego ","UAE Team Emirates","ITA",0,11080,11,20,39536
+25,3,"COSTA, Rui ","UAE Team Emirates","POR",0,11080,14,20,39536
+26,3,"DOCKER, Mitchell ","Team EF Education First-Drapac p/b Cannondale","AUS",0,11080,92,381,39897
+27,3,"BENNETT, George ","Team Lotto NL - Jumbo","NZL",0,11080,13,20,39536
+28,3,"IZAGIRRE, Ion ","Bahrain - Merida","ESP",0,11080,15,20,39536
+29,3,"MORKOV, Michael ","Quick - Step Floors","DEN",0,11080,78,183,39699
+30,3,"VON HOFF, Steele ","UniSA-Australia","AUS",0,11080,64,83,39599
+31,3,"BEPPU, Fumiyuki ","Trek - Segafredo","JPN",0,11080,52,52,39568
+32,3,"BAK YTTING, Lars ","Lotto Soudal","DEN",0,11080,30,20,39536
+33,3,"GREIPEL, André ","Lotto Soudal","GER",0,11080,98,451,39967
+34,3,"HANSEN, Adam ","Lotto Soudal","AUS",0,11080,49,33,39549
+35,3,"PUCCIO, Salvatore ","Team Sky","ITA",0,11080,48,31,39547
+36,3,"BERNAL, Egan ","Team Sky","COL",0,11080,18,20,39536
+37,3,"POZZOVIVO, Domenico ","Bahrain - Merida","ITA",0,11080,25,20,39536
+38,3,"CAPECCHI, Eros ","Quick - Step Floors","ITA",0,11080,41,20,39536
+39,3,"RENSHAW, Mark ","Team Dimension Data for Qhubeka","AUS",0,11080,99,461,39977
+40,3,"KORSÆTH, Truls ","Astana Pro Team","NOR",0,11080,93,381,39897
+41,3,"TEUNISSEN, Mike ","Team Sunweb","NED",0,11080,50,36,39552
+42,3,"CANTY, Brendan ","Team EF Education First-Drapac p/b Cannondale","AUS",0,11080,29,20,39536
+43,3,"MORENO, Daniel ","Team EF Education First-Drapac p/b Cannondale","ESP",0,11080,34,20,39536
+44,3,"DIDIER, Laurent ","Trek - Segafredo","LUX",0,11080,38,20,39536
+45,3,"HAMILTON, Christopher ","Team Sunweb","AUS",0,11080,26,20,39536
+46,3,"CHEREL, Mikael ","Ag2R La Mondiale","FRA",0,11080,21,20,39536
+47,3,"PORTE, Richie ","BMC Racing Team","AUS",0,11080,27,20,39536
+48,3,"WYSS, Danilo ","BMC Racing Team","SUI",0,11080,74,158,39674
+49,3,"VALGREN ANDERSEN, Michael ","Astana Pro Team","Den",0,11080,35,20,39536
+50,3,"EARLE, Nathan ","UniSA-Australia","AUS",0,11080,32,20,39536
+51,3,"LATOUR, Pierre ","Ag2R La Mondiale","FRA",0,11080,23,20,39536
+52,3,"SOLER, Marc ","Movistar Team","ESP",0,11080,33,20,39536
+53,3,"LAMMERTINK, Maurits ","Team Katusha-Alpecin","NED",0,11080,81,203,39719
+54,3,"LAWLESS, Christopher ","Team Sky","GBR",0,11080,100,461,39977
+55,3,"FERNANDEZ, Ruben ","Movistar Team","ESP",0,11080,28,20,39536
+56,3,"OOMEN, Sam ","Team Sunweb","NED",0,11080,20,20,39536
+57,3,"PREIDLER, Georg ","FDJ","AUT",0,11080,24,20,39536
+58,3,"GERRANS, Simon ","BMC Racing Team","AUS",0,11080,53,52,39568
+59,3,"SIEBERG, Marcel ","Lotto Soudal","GER",0,11080,110,615,40131
+60,3,"DENNIS, Rohan ","BMC Racing Team","AUS",0,11080,36,20,39536
+61,3,"EG, Niklas ","Trek - Segafredo","DEN",0,11080,37,20,39536
+62,3,"BARBERO, Carlos ","Movistar Team","ESP",0,11080,16,20,39536
+63,3,"DE KORT, Koen ","Trek - Segafredo","NED",0,11080,61,70,39586
+64,3,"BATTAGLIN, Enrico ","Team Lotto NL - Jumbo","ITA",0,11080,68,93,39609
+65,3,"SLAGTER, Tom-Jelte ","Team Dimension Data for Qhubeka","NED",0,11080,31,20,39536
+66,3,"MORI, Manuele ","UAE Team Emirates","ITA",0,11080,54,52,39568
+67,3,"MAS NICOLAU, Enric ","Quick - Step Floors","ESP",0,11080,40,20,39536
+68,3,"O'CONNOR, Ben ","Team Dimension Data for Qhubeka","AUS",0,11080,43,20,39536
+69,3,"DOULL, Owain ","Team Sky","GBR",0,11080,47,20,39536
+70,3,"ARASHIRO, Yukiya ","Bahrain - Merida","JPN",0,11080,79,186,39702
+71,3,"MEYER, Cam ","Mitchelton-SCOTT","AUS",0,11080,44,20,39536
+72,3,"ROE, Tim ","UniSA-Australia","AUS",0,11080,42,20,39536
+73,3,"BOHLI, Tom ","BMC Racing Team","SUI",0,11080,55,52,39568
+74,3,"OLIVIER, Daan ","Team Lotto NL - Jumbo","NED",0,11080,58,60,39576
+75,3,"MONTAGUTI, Mattéo ","Ag2R La Mondiale","ITA",0,11080,84,246,39762
+76,3,"DAVIES, Scott ","Team Dimension Data for Qhubeka","GBR",0,11080,39,20,39536
+77,3,"MORTON, Lachlan ","Team Dimension Data for Qhubeka","AUS",0,11080,45,20,39536
+78,3,"GASTAUER, Ben ","Ag2R La Mondiale","LUX",0,11080,46,20,39536
+79,3,"OLIVEIRA, Nelson ","Movistar Team","POR",0,11080,57,52,39568
+80,3,"SÜTTERLIN, Jasha ","Movistar Team","GER",0,11080,59,60,39576
+81,3,"VANDENBERGH, Stijn ","Ag2R La Mondiale","BEL",0,11080,56,52,39568
+82,3,"AGNOLI, Valerio ","Bahrain - Merida","ITA",0,11080,80,186,39702
+83,3,"LADAGNOUS, Matthieu ","FDJ","FRA",0,11080,111,615,40131
+84,3,"MACHADO, Tiago ","Team Katusha-Alpecin","POR",0,11080,62,74,39590
+85,3,"MATOS, Nuno ","Movistar Team","POR",0,11080,66,84,39600
+86,3,"WISNIOWSKI, Lukasz ","Team Sky","POL",0,11080,102,485,40001
+87,3,"KOCHETKOV, Pavel ","Team Katusha-Alpecin","RUS",0,11080,86,246,39762
+88,3,"PETERS, Nans ","Ag2R La Mondiale","FRA",0,11080,85,246,39762
+89,3,"BOARO, Manuele ","Bahrain - Merida","ITA",24,11104,121,933,40449
+90,3,"DOMONT, Axel ","Ag2R La Mondiale","FRA",26,11106,103,487,40003
+91,3,"PORTER, Alex ","UniSA-Australia","AUS",26,11106,94,383,39899
+92,3,"DLAMINI, Nicholas ","Team Dimension Data for Qhubeka","RSA",26,11106,112,634,40150
+93,3,"ZAKHAROV, Artyom ","Astana Pro Team","KAZ",26,11106,60,62,39578
+94,3,"WAGNER, Robert ","Team Lotto NL - Jumbo","GER",26,11106,118,774,40290
+95,3,"DUCHESNE, Antoine ","FDJ","CAN",26,11106,113,641,40157
+96,3,"CLARKE, William ","Team EF Education First-Drapac p/b Cannondale","AUS",26,11106,51,47,39563
+97,3,"SCULLY, Tom ","Team EF Education First-Drapac p/b Cannondale","NZL",26,11106,76,175,39691
+98,3,"BONO, Matteo ","UAE Team Emirates","ITA",26,11106,73,155,39671
+99,3,"WYNANTS, Maarten ","Team Lotto NL - Jumbo","NED",31,11111,63,78,39594
+100,3,"SABATINI, Fabio ","Quick - Step Floors","ITA",31,11111,104,492,40008
+101,3,"FRAME, Alex ","Trek - Segafredo","NZL",34,11114,122,971,40487
+102,3,"KENNAUGH, Peter ","BORA - hansgrohe","GBR",34,11114,97,405,39921
+103,3,"HAYMAN, Mathew ","Mitchelton-SCOTT","AUS",38,11118,77,178,39694
+104,3,"DEBUSSCHERE, Jens ","Lotto Soudal","BEL",44,11124,114,659,40175
+105,3,"SENECHAL, Florian ","Quick - Step Floors","FRA",44,11124,115,714,40230
+106,3,"SCHMIDT, Mads Würtz ","Team Katusha-Alpecin","DEN",48,11128,107,579,40095
+107,3,"ARNDT, Nikias ","Team Sunweb","GER",48,11128,75,171,39687
+108,3,"LEEZER, Thomas ","Team Lotto NL - Jumbo","NED",48,11128,71,126,39642
+109,3,"OWEN, Logan ","Team EF Education First-Drapac p/b Cannondale","USA",54,11134,116,743,40259
+110,3,"DE VRESSE, Laurens ","Astana Pro Team","BEL",56,11136,67,89,39605
+111,3,"SCOTSON, Miles ","BMC Racing Team","AUS",62,11142,69,114,39630
+112,3,"BODNAR, Maciej ","BORA - hansgrohe","POL",64,11144,119,870,40386
+113,3,"DE GENDT, Thomas ","Lotto Soudal","BEL",64,11144,88,310,39826
+114,3,"CIMOLAI, Davide ","FDJ","ITA",64,11144,126,1559,41075
+115,3,"VENTER, Jaco ","Team Dimension Data for Qhubeka","RSA",64,11144,96,399,39915
+116,3,"STORER, Michael ","Team Sunweb","AUS",89,11169,106,578,40094
+117,3,"BAUER, Jack ","Mitchelton-SCOTT","NZL",89,11169,87,266,39782
+118,3,"HAGA, Chad ","Team Sunweb","USA",120,11200,90,374,39890
+119,3,"BENNETT, Sam ","BORA - hansgrohe","IRL",137,11217,124,1261,40777
+120,3,"CASTRILLO, Jaime ","Movistar Team","ESP",142,11222,117,754,40270
+121,3,"FERRARI, Roberto ","UAE Team Emirates","ITA",142,11222,125,1328,40844
+122,3,"GONÇALVES, José ","Team Katusha-Alpecin","POR",150,11230,91,376,39892
+123,3,"WELSFORD, Sam ","UniSA-Australia","AUS",217,11297,128,1688,41204
+124,3,"BOWDEN, Scott ","UniSA-Australia","AUS",217,11297,123,1118,40634
+125,3,"NAVARDAUSKAS, Ramunas ","Bahrain - Merida","LTU",217,11297,127,1688,41204
+126,3,"GATTO, Oscar ","Astana Pro Team","ITA",217,11297,101,463,39979
+127,3,"HOWSON, Damien ","Mitchelton-SCOTT","AUS",294,11374,105,533,40049
+128,3,"BEVIN, Patrick ","BMC Racing Team","NZL",320,11400,95,394,39910
+129,3,"DIBBEN, Jonathan ","Team Sky","GBR",394,11474,129,1865,41381
+1,4,"SAGAN, Peter ","BORA - hansgrohe","SVK",0,12067,1,0,51589
+2,4,"IMPEY, Daryl ","Mitchelton-SCOTT","RSA",0,12067,2,2,51591
+3,4,"SANCHEZ, Luis León ","Astana Pro Team","ESP",0,12067,4,10,51599
+4,4,"ULISSI, Diego ","UAE Team Emirates","ITA",0,12067,5,14,51603
+5,4,"MCCARTHY, Jay ","BORA - hansgrohe","AUS",0,12067,3,9,51598
+6,4,"DEVENYNS, Dries ","Quick - Step Floors","BEL",0,12067,9,14,51603
+7,4,"POZZOVIVO, Domenico ","Bahrain - Merida","ITA",0,12067,15,14,51603
+8,4,"COSTA, Rui ","UAE Team Emirates","POR",0,12067,7,14,51603
+9,4,"LATOUR, Pierre ","Ag2R La Mondiale","FRA",0,12067,13,14,51603
+10,4,"DIDIER, Laurent ","Trek - Segafredo","LUX",0,12067,27,14,51603
+11,4,"BERNAL, Egan ","Team Sky","COL",0,12067,10,14,51603
+12,4,"CHEREL, Mikael ","Ag2R La Mondiale","FRA",0,12067,14,14,51603
+13,4,"PREIDLER, Georg ","FDJ","AUT",0,12067,16,14,51603
+14,4,"MEYER, Cam ","Mitchelton-SCOTT","AUS",0,12067,31,14,51603
+15,4,"BENNETT, George ","Team Lotto NL - Jumbo","NZL",0,12067,8,14,51603
+16,4,"GUERREIRO, Ruben ","Trek - Segafredo","POR",0,12067,18,14,51603
+17,4,"GESINK, Robert ","Team Lotto NL - Jumbo","BEL",0,12067,6,14,51603
+18,4,"OOMEN, Sam ","Team Sunweb","NED",0,12067,17,14,51603
+19,4,"EARLE, Nathan ","UniSA-Australia","AUS",0,12067,22,14,51603
+20,4,"IZAGUIRRE, Gorka ","Bahrain - Merida","ESP",0,12067,12,14,51603
+21,4,"PORTE, Richie ","BMC Racing Team","AUS",0,12067,20,14,51603
+22,4,"HAMILTON, Christopher ","Team Sunweb","AUS",0,12067,19,14,51603
+23,4,"VALGREN ANDERSEN, Michael ","Astana Pro Team","Den",0,12067,26,14,51603
+24,4,"IZAGIRRE, Ion ","Bahrain - Merida","ESP",0,12067,11,14,51603
+25,4,"CANTY, Brendan ","Team EF Education First-Drapac p/b Cannondale","AUS",0,12067,21,14,51603
+26,4,"MORENO, Daniel ","Team EF Education First-Drapac p/b Cannondale","ESP",0,12067,25,14,51603
+27,4,"CLARKE, Simon ","Team EF Education First-Drapac p/b Cannondale","AUS",0,12067,35,78,51667
+28,4,"BAK YTTING, Lars ","Lotto Soudal","DEN",0,12067,23,14,51603
+29,4,"SLAGTER, Tom-Jelte ","Team Dimension Data for Qhubeka","NED",0,12067,24,14,51603
+30,4,"MAS NICOLAU, Enric ","Quick - Step Floors","ESP",0,12067,30,14,51603
+31,4,"DAVIES, Scott ","Team Dimension Data for Qhubeka","GBR",0,12067,29,14,51603
+32,4,"DENNIS, Rohan ","BMC Racing Team","AUS",0,12067,28,14,51603
+33,4,"CAPECCHI, Eros ","Quick - Step Floors","ITA",0,12067,32,14,51603
+34,4,"O'CONNOR, Ben ","Team Dimension Data for Qhubeka","AUS",0,12067,33,14,51603
+35,4,"STORER, Michael ","Team Sunweb","AUS",0,12067,62,572,52161
+36,4,"HAAS, Nathan ","Team Katusha-Alpecin","AUS",54,12121,34,65,51654
+37,4,"HANSEN, Adam ","Lotto Soudal","AUS",54,12121,36,81,51670
+38,4,"ROE, Tim ","UniSA-Australia","AUS",81,12148,37,95,51684
+39,4,"LAMMERTINK, Maurits ","Team Katusha-Alpecin","NED",139,12206,46,336,51925
+40,4,"SOLER, Marc ","Movistar Team","ESP",160,12227,38,174,51763
+41,4,"MORI, Manuele ","UAE Team Emirates","ITA",231,12298,41,277,51866
+42,4,"GERRANS, Simon ","BMC Racing Team","AUS",236,12303,43,282,51871
+43,4,"AGNOLI, Valerio ","Bahrain - Merida","ITA",236,12303,49,416,52005
+44,4,"BEPPU, Fumiyuki ","Trek - Segafredo","JPN",236,12303,42,282,51871
+45,4,"VANDENBERGH, Stijn ","Ag2R La Mondiale","BEL",236,12303,44,282,51871
+46,4,"ARASHIRO, Yukiya ","Bahrain - Merida","JPN",236,12303,48,416,52005
+47,4,"MATOS, Nuno ","Movistar Team","POR",236,12303,45,314,51903
+48,4,"EG, Niklas ","Trek - Segafredo","DEN",236,12303,39,250,51839
+49,4,"ROUX, Anthony ","FDJ","FRA",245,12312,40,259,51848
+50,4,"MARCATO, Marco ","UAE Team Emirates","ITA",303,12370,50,426,52015
+51,4,"DE KORT, Koen ","Trek - Segafredo","NED",381,12448,51,445,52034
+52,4,"ARNDT, Nikias ","Team Sunweb","GER",381,12448,58,546,52135
+53,4,"OLIVIER, Daan ","Team Lotto NL - Jumbo","NED",398,12465,52,452,52041
+54,4,"ZAKHAROV, Artyom ","Astana Pro Team","KAZ",398,12465,53,454,52043
+55,4,"DE VRESSE, Laurens ","Astana Pro Team","BEL",398,12465,54,481,52070
+56,4,"WYSS, Danilo ","BMC Racing Team","SUI",398,12465,59,550,52139
+57,4,"SCOTSON, Miles ","BMC Racing Team","AUS",398,12465,56,506,52095
+58,4,"BATTAGLIN, Enrico ","Team Lotto NL - Jumbo","ITA",398,12465,55,485,52074
+59,4,"MORTON, Lachlan ","Team Dimension Data for Qhubeka","AUS",398,12465,47,412,52001
+60,4,"HAYMAN, Mathew ","Mitchelton-SCOTT","AUS",481,12548,64,653,52242
+61,4,"TEUNISSEN, Mike ","Team Sunweb","NED",481,12548,57,511,52100
+62,4,"LADAGNOUS, Matthieu ","FDJ","FRA",540,12607,91,1149,52738
+63,4,"BOARO, Manuele ","Bahrain - Merida","ITA",542,12609,109,1469,53058
+64,4,"OSS, Daniel ","BORA - hansgrohe","ITA",542,12609,73,743,52332
+65,4,"DOULL, Owain ","Team Sky","GBR",542,12609,61,556,52145
+66,4,"GASTAUER, Ben ","Ag2R La Mondiale","LUX",542,12609,60,556,52145
+67,4,"PETERS, Nans ","Ag2R La Mondiale","FRA",542,12609,76,782,52371
+68,4,"BEVIN, Patrick ","BMC Racing Team","NZL",542,12609,84,930,52519
+69,4,"FERNANDEZ, Ruben ","Movistar Team","ESP",639,12706,63,653,52242
+70,4,"CLARKE, William ","Team EF Education First-Drapac p/b Cannondale","AUS",643,12710,66,684,52273
+71,4,"DUCHESNE, Antoine ","FDJ","CAN",643,12710,95,1278,52867
+72,4,"DOCKER, Mitchell ","Team EF Education First-Drapac p/b Cannondale","AUS",643,12710,87,1018,52607
+73,4,"EDMONDSON, Alexander ","Mitchelton-SCOTT","AUS",646,12713,81,861,52450
+74,4,"RENSHAW, Mark ","Team Dimension Data for Qhubeka","AUS",690,12757,90,1145,52734
+75,4,"EWAN, Caleb ","Mitchelton-SCOTT","AUS",690,12757,65,684,52273
+76,4,"DLAMINI, Nicholas ","Team Dimension Data for Qhubeka","RSA",690,12757,96,1318,52907
+77,4,"CASTRILLO, Jaime ","Movistar Team","ESP",690,12757,107,1438,53027
+78,4,"OLIVEIRA, Nelson ","Movistar Team","POR",690,12757,72,736,52325
+79,4,"BARBERO, Carlos ","Movistar Team","ESP",690,12757,69,704,52293
+80,4,"MACHADO, Tiago ","Team Katusha-Alpecin","POR",690,12757,74,758,52347
+81,4,"SCULLY, Tom ","Team EF Education First-Drapac p/b Cannondale","NZL",690,12757,80,859,52448
+82,4,"WYNANTS, Maarten ","Team Lotto NL - Jumbo","NED",690,12757,75,762,52351
+83,4,"BOHLI, Tom ","BMC Racing Team","SUI",690,12757,71,736,52325
+84,4,"MONTAGUTI, Mattéo ","Ag2R La Mondiale","ITA",690,12757,83,930,52519
+85,4,"VIVIANI, Elia ","Quick - Step Floors","ITA",690,12757,67,692,52281
+86,4,"MORKOV, Michael ","Quick - Step Floors","DEN",690,12757,82,867,52456
+87,4,"PUCCIO, Salvatore ","Team Sky","ITA",690,12757,70,715,52304
+88,4,"SENECHAL, Florian ","Quick - Step Floors","FRA",690,12757,101,1398,52987
+89,4,"VENTER, Jaco ","Team Dimension Data for Qhubeka","RSA",690,12757,89,1083,52672
+90,4,"DEMPSTER, Zak ","UniSA-Australia","AUS",690,12757,77,805,52394
+91,4,"BONO, Matteo ","UAE Team Emirates","ITA",690,12757,79,839,52428
+92,4,"LEEZER, Thomas ","Team Lotto NL - Jumbo","NED",690,12757,78,810,52399
+93,4,"RESTREPO, Jhonatan ","Team Katusha-Alpecin","COL",690,12757,68,703,52292
+94,4,"HAGA, Chad ","Team Sunweb","USA",801,12868,92,1169,52758
+95,4,"NAVARDAUSKAS, Ramunas ","Bahrain - Merida","LTU",874,12941,125,2556,54145
+96,4,"VON HOFF, Steele ","UniSA-Australia","AUS",874,12941,86,951,52540
+97,4,"WAGNER, Robert ","Team Lotto NL - Jumbo","GER",874,12941,114,1642,53231
+98,4,"GATTO, Oscar ","Astana Pro Team","ITA",877,12944,97,1334,52923
+99,4,"KENNAUGH, Peter ","BORA - hansgrohe","GBR",877,12944,94,1276,52865
+100,4,"WELSFORD, Sam ","UniSA-Australia","AUS",918,12985,126,2600,54189
+101,4,"DE GENDT, Thomas ","Lotto Soudal","BEL",918,12985,93,1222,52811
+102,4,"BOWDEN, Scott ","UniSA-Australia","AUS",918,12985,122,2030,53619
+103,4,"HOWSON, Damien ","Mitchelton-SCOTT","AUS",918,12985,108,1445,53034
+104,4,"SELIG, Rüdiger ","BORA - hansgrohe","GER",925,12992,112,1534,53123
+105,4,"CONSONNI, Simone ","UAE Team Emirates","ITA",926,12993,85,940,52529
+106,4,"SABATINI, Fabio ","Quick - Step Floors","ITA",926,12993,106,1412,53001
+107,4,"OWEN, Logan ","Team EF Education First-Drapac p/b Cannondale","USA",926,12993,116,1663,53252
+108,4,"DOMONT, Axel ","Ag2R La Mondiale","FRA",926,12993,103,1407,52996
+109,4,"BODNAR, Maciej ","BORA - hansgrohe","POL",926,12993,119,1790,53379
+110,4,"SÜTTERLIN, Jasha ","Movistar Team","GER",992,13059,88,1046,52635
+111,4,"PORTER, Alex ","UniSA-Australia","AUS",992,13059,98,1364,52953
+112,4,"WISNIOWSKI, Lukasz ","Team Sky","POL",1035,13102,111,1514,53103
+113,4,"SIEBERG, Marcel ","Lotto Soudal","GER",1035,13102,115,1644,53233
+114,4,"BAUHAUS, Phil ","Team Sunweb","GER",1035,13102,121,1932,53521
+115,4,"KORSÆTH, Truls ","Astana Pro Team","NOR",1035,13102,104,1410,52999
+116,4,"MINALI, Riccardo ","Astana Pro Team","ITA",1035,13102,99,1386,52975
+117,4,"BENNETT, Sam ","BORA - hansgrohe","IRL",1035,13102,124,2290,53879
+118,4,"GONÇALVES, José ","Team Katusha-Alpecin","POR",1035,13102,102,1405,52994
+119,4,"GREIPEL, André ","Lotto Soudal","GER",1035,13102,110,1480,53069
+120,4,"LAWLESS, Christopher ","Team Sky","GBR",1124,13191,113,1579,53168
+121,4,"PEDERSEN, Mads ","Trek - Segafredo","DEN",1124,13191,118,1733,53322
+122,4,"FRAME, Alex ","Trek - Segafredo","NZL",1124,13191,123,2089,53678
+123,4,"BAUER, Jack ","Mitchelton-SCOTT","NZL",1150,13217,105,1410,52999
+124,4,"DEBUSSCHERE, Jens ","Lotto Soudal","BEL",1153,13220,120,1806,53395
+125,4,"SCHMIDT, Mads Würtz ","Team Katusha-Alpecin","DEN",1153,13220,117,1726,53315
+126,4,"KOCHETKOV, Pavel ","Team Katusha-Alpecin","RUS",1153,13220,100,1393,52982
+127,4,"CIMOLAI, Davide ","FDJ","ITA",1173,13240,127,2726,54315
+1,5,"PORTE, Richie ","BMC Racing Team","AUS",0,13342,2,0,64935
+2,5,"IMPEY, Daryl ","Mitchelton-SCOTT","RSA",8,13350,1,0,64935
+3,5,"SLAGTER, Tom-Jelte ","Team Dimension Data for Qhubeka","NED",10,13352,3,16,64951
+4,5,"DEVENYNS, Dries ","Quick - Step Floors","BEL",10,13352,5,20,64955
+5,5,"BERNAL, Egan ","Team Sky","COL",10,13352,6,20,64955
+6,5,"IZAGIRRE, Gorka ","Bahrain - Merida","ESP",10,13352,7,20,64955
+7,5,"ULISSI, Diego ","UAE Team Emirates","ITA",10,13352,4,20,64955
+8,5,"GESINK, Robert ","Team Lotto NL - Jumbo","BEL",14,13356,8,24,64959
+9,5,"IZAGIRRE, Ion ","Bahrain - Merida","ESP",14,13356,10,24,64959
+10,5,"GUERREIRO, Ruben ","Trek - Segafredo","POR",14,13356,13,24,64959
+11,5,"MAS NICOLAU, Enric ","Quick - Step Floors","ESP",14,13356,16,24,64959
+12,5,"LATOUR, Pierre ","Ag2R La Mondiale","FRA",14,13356,11,24,64959
+13,5,"POZZOVIVO, Domenico ","Bahrain - Merida","ITA",14,13356,12,24,64959
+14,5,"OOMEN, Sam ","Team Sunweb","NED",14,13356,14,24,64959
+15,5,"HAMILTON, Christopher ","Team Sunweb","AUS",14,13356,15,24,64959
+16,5,"BENNETT, George ","Team Lotto NL - Jumbo","NZL",14,13356,9,24,64959
+17,5,"CHEREL, Mikael ","Ag2R La Mondiale","FRA",19,13361,19,29,64964
+18,5,"SOLER, Marc ","Movistar Team","ESP",19,13361,35,189,65124
+19,5,"EARLE, Nathan ","UniSA-Australia","AUS",19,13361,20,29,64964
+20,5,"CANTY, Brendan ","Team EF Education First-Drapac p/b Cannondale","AUS",19,13361,21,29,64964
+21,5,"O'CONNOR, Ben ","Team Dimension Data for Qhubeka","AUS",19,13361,22,29,64964
+22,5,"SANCHEZ, Luis León ","Astana Pro Team","ESP",19,13361,17,25,64960
+23,5,"MCCARTHY, Jay ","BORA - hansgrohe","AUS",24,13366,18,29,64964
+24,5,"FERNANDEZ, Ruben ","Movistar Team","ESP",35,13377,50,684,65619
+25,5,"DAVIES, Scott ","Team Dimension Data for Qhubeka","GBR",35,13377,23,45,64980
+26,5,"LAMMERTINK, Maurits ","Team Katusha-Alpecin","NED",44,13386,38,376,65311
+27,5,"MORENO, Daniel ","Team EF Education First-Drapac p/b Cannondale","ESP",47,13389,24,57,64992
+28,5,"MEYER, Cam ","Mitchelton-SCOTT","AUS",51,13393,25,61,64996
+29,5,"VALGREN ANDERSEN, Michael ","Astana Pro Team","Den",62,13404,26,72,65007
+30,5,"BAK YTTING, Lars ","Lotto Soudal","DEN",72,13414,27,82,65017
+31,5,"STORER, Michael ","Team Sunweb","AUS",76,13418,48,644,65579
+32,5,"MACHADO, Tiago ","Team Katusha-Alpecin","POR",76,13418,58,830,65765
+33,5,"PREIDLER, Georg ","FDJ","AUT",76,13418,28,86,65021
+34,5,"DOULL, Owain ","Team Sky","GBR",78,13420,46,630,65565
+35,5,"EG, Niklas ","Trek - Segafredo","DEN",78,13420,36,324,65259
+36,5,"CAPECCHI, Eros ","Quick - Step Floors","ITA",78,13420,30,88,65023
+37,5,"DENNIS, Rohan ","BMC Racing Team","AUS",78,13420,29,88,65023
+38,5,"GONÇALVES, José ","Team Katusha-Alpecin","POR",84,13426,85,1485,66420
+39,5,"VANDENBERGH, Stijn ","Ag2R La Mondiale","BEL",105,13447,39,383,65318
+40,5,"HANSEN, Adam ","Lotto Soudal","AUS",107,13449,34,184,65119
+41,5,"DIDIER, Laurent ","Trek - Segafredo","LUX",107,13449,31,117,65052
+42,5,"COSTA, Rui ","UAE Team Emirates","POR",116,13458,32,126,65061
+43,5,"MORI, Manuele ","UAE Team Emirates","ITA",121,13463,40,394,65329
+44,5,"OLIVEIRA, Nelson ","Movistar Team","POR",126,13468,59,858,65793
+45,5,"ARASHIRO, Yukiya ","Bahrain - Merida","JPN",128,13470,43,540,65475
+46,5,"GASTAUER, Ben ","Ag2R La Mondiale","LUX",128,13470,49,680,65615
+47,5,"GERRANS, Simon ","BMC Racing Team","AUS",148,13490,41,426,65361
+48,5,"SÜTTERLIN, Jasha ","Movistar Team","GER",153,13495,73,1195,66130
+49,5,"SAGAN, Peter ","BORA - hansgrohe","SVK",153,13495,33,149,65084
+50,5,"VON HOFF, Steele ","UniSA-Australia","AUS",165,13507,71,1112,66047
+51,5,"MARCATO, Marco ","UAE Team Emirates","ITA",175,13517,44,597,65532
+52,5,"AGNOLI, Valerio ","Bahrain - Merida","ITA",204,13546,45,616,65551
+53,5,"OSS, Daniel ","BORA - hansgrohe","ITA",204,13546,62,943,65878
+54,5,"BATTAGLIN, Enrico ","Team Lotto NL - Jumbo","ITA",222,13564,51,703,65638
+55,5,"MORTON, Lachlan ","Team Dimension Data for Qhubeka","AUS",235,13577,47,643,65578
+56,5,"ARNDT, Nikias ","Team Sunweb","GER",244,13586,55,786,65721
+57,5,"TEUNISSEN, Mike ","Team Sunweb","NED",244,13586,54,751,65686
+58,5,"DE VRESSE, Laurens ","Astana Pro Team","BEL",266,13608,53,743,65678
+59,5,"DE KORT, Koen ","Trek - Segafredo","NED",279,13621,52,720,65655
+60,5,"HAYMAN, Mathew ","Mitchelton-SCOTT","AUS",281,13623,60,930,65865
+61,5,"WYSS, Danilo ","BMC Racing Team","SUI",281,13623,57,827,65762
+62,5,"LADAGNOUS, Matthieu ","FDJ","FRA",281,13623,80,1426,66361
+63,5,"WYNANTS, Maarten ","Team Lotto NL - Jumbo","NED",281,13623,69,1039,65974
+64,5,"RESTREPO, Jhonatan ","Team Katusha-Alpecin","COL",281,13623,65,980,65915
+65,5,"PUCCIO, Salvatore ","Team Sky","ITA",281,13623,67,992,65927
+66,5,"BOARO, Manuele ","Bahrain - Merida","ITA",281,13623,92,1746,66681
+67,5,"CLARKE, William ","Team EF Education First-Drapac p/b Cannondale","AUS",296,13638,64,976,65911
+68,5,"CLARKE, Simon ","Team EF Education First-Drapac p/b Cannondale","AUS",296,13638,37,370,65305
+69,5,"KENNAUGH, Peter ","BORA - hansgrohe","GBR",318,13660,88,1590,66525
+70,5,"ROE, Tim ","UniSA-Australia","AUS",353,13695,42,444,65379
+71,5,"LEEZER, Thomas ","Team Lotto NL - Jumbo","NED",375,13717,72,1181,66116
+72,5,"KOCHETKOV, Pavel ","Team Katusha-Alpecin","RUS",375,13717,93,1764,66699
+73,5,"GREIPEL, André ","Lotto Soudal","GER",402,13744,97,1878,66813
+74,5,"MORKOV, Michael ","Quick - Step Floors","DEN",402,13744,75,1265,66200
+75,5,"DOCKER, Mitchell ","Team EF Education First-Drapac p/b Cannondale","AUS",448,13790,83,1462,66397
+76,5,"VENTER, Jaco ","Team Dimension Data for Qhubeka","RSA",448,13790,86,1527,66462
+77,5,"SCOTSON, Miles ","BMC Racing Team","AUS",449,13791,63,951,65886
+78,5,"OLIVIER, Daan ","Team Lotto NL - Jumbo","NED",488,13830,61,936,65871
+79,5,"BOWDEN, Scott ","UniSA-Australia","AUS",488,13830,119,2513,67448
+80,5,"BOHLI, Tom ","BMC Racing Team","SUI",488,13830,74,1220,66155
+81,5,"MONTAGUTI, Mattéo ","Ag2R La Mondiale","ITA",488,13830,79,1414,66349
+82,5,"EDMONDSON, Alexander ","Mitchelton-SCOTT","AUS",506,13848,76,1363,66298
+83,5,"WISNIOWSKI, Lukasz ","Team Sky","POL",525,13867,101,2035,66970
+84,5,"BODNAR, Maciej ","BORA - hansgrohe","POL",525,13867,113,2311,67246
+85,5,"OWEN, Logan ","Team EF Education First-Drapac p/b Cannondale","USA",586,13928,110,2245,67180
+86,5,"SCULLY, Tom ","Team EF Education First-Drapac p/b Cannondale","NZL",586,13928,81,1441,66376
+87,5,"DE GENDT, Thomas ","Lotto Soudal","BEL",586,13928,94,1801,66736
+88,5,"ZAKHAROV, Artyom ","Astana Pro Team","KAZ",596,13938,70,1046,65981
+89,5,"HAGA, Chad ","Team Sunweb","USA",652,13994,95,1817,66752
+90,5,"HOWSON, Damien ","Mitchelton-SCOTT","AUS",652,13994,103,2093,67028
+91,5,"GATTO, Oscar ","Astana Pro Team","ITA",652,13994,99,1982,66917
+92,5,"EWAN, Caleb ","Mitchelton-SCOTT","AUS",707,14049,77,1387,66322
+93,5,"BEVIN, Patrick ","BMC Racing Team","NZL",707,14049,90,1633,66568
+94,5,"DENZ, Nico ","Ag2R La Mondiale","FRA",707,14049,104,2110,67045
+95,5,"DUCHESNE, Antoine ","FDJ","CAN",707,14049,98,1981,66916
+96,5,"LAWLESS, Christopher ","Team Sky","GBR",707,14049,111,2282,67217
+97,5,"PETERS, Nans ","Ag2R La Mondiale","FRA",707,14049,84,1485,66420
+98,5,"BEPPU, Fumiyuki ","Trek - Segafredo","JPN",707,14049,66,982,65917
+99,5,"BARBERO, Carlos ","Movistar Team","ESP",707,14049,78,1407,66342
+100,5,"CASTRILLO, Jaime ","Movistar Team","ESP",707,14049,105,2141,67076
+101,5,"NAVARDAUSKAS, Ramunas ","Bahrain - Merida","LTU",707,14049,123,3259,68194
+102,5,"PORTER, Alex ","UniSA-Australia","AUS",707,14049,102,2067,67002
+103,5,"WELSFORD, Sam ","UniSA-Australia","AUS",707,14049,124,3303,68238
+104,5,"DLAMINI, Nicholas ","Team Dimension Data for Qhubeka","RSA",707,14049,100,2020,66955
+105,5,"RENSHAW, Mark ","Team Dimension Data for Qhubeka","AUS",707,14049,96,1848,66783
+106,5,"DEBUSSCHERE, Jens ","Lotto Soudal","BEL",707,14049,118,2509,67444
+107,5,"MATOS, Nuno ","Movistar Team","POR",707,14049,68,1017,65952
+108,5,"SIEBERG, Marcel ","Lotto Soudal","GER",707,14049,115,2347,67282
+109,5,"WAGNER, Robert ","Team Lotto NL - Jumbo","GER",707,14049,114,2345,67280
+110,5,"SABATINI, Fabio ","Quick - Step Floors","ITA",764,14106,108,2172,67107
+111,5,"CONSONNI, Simone ","UAE Team Emirates","ITA",764,14106,91,1700,66635
+112,5,"VIVIANI, Elia ","Quick - Step Floors","ITA",764,14106,82,1452,66387
+113,5,"MINALI, Riccardo ","Astana Pro Team","ITA",764,14106,106,2146,67081
+114,5,"SENECHAL, Florian ","Quick - Step Floors","FRA",764,14106,107,2158,67093
+115,5,"DEMPSTER, Zak ","UniSA-Australia","AUS",764,14106,87,1563,66498
+116,5,"SCHMIDT, Mads Würtz ","Team Katusha-Alpecin","DEN",764,14106,116,2484,67419
+117,5,"FRAME, Alex ","Trek - Segafredo","NZL",764,14106,121,2849,67784
+118,5,"HAAS, Nathan ","Team Katusha-Alpecin","AUS",764,14106,56,825,65760
+119,5,"BENNETT, Sam ","BORA - hansgrohe","IRL",764,14106,122,3050,67985
+120,5,"BONO, Matteo ","UAE Team Emirates","ITA",764,14106,89,1599,66534
+121,5,"SELIG, Rüdiger ","BORA - hansgrohe","GER",764,14106,112,2294,67229
+122,5,"PEDERSEN, Mads ","Trek - Segafredo","DEN",764,14106,117,2493,67428
+123,5,"KORSÆTH, Truls ","Astana Pro Team","NOR",780,14122,109,2186,67121
+124,5,"BAUHAUS, Phil ","Team Sunweb","GER",793,14135,120,2721,67656
+125,5,"CIMOLAI, Davide ","FDJ","ITA",793,14135,125,3515,68450
+1,6,"GREIPEL, André ","Lotto Soudal","GER",0,7279,96,1868,74082
+2,6,"EWAN, Caleb ","Mitchelton-SCOTT","AUS",0,7279,77,1381,73595
+3,6,"SAGAN, Peter ","BORA - hansgrohe","SVK",0,7279,32,145,72359
+4,6,"BAUHAUS, Phil ","Team Sunweb","GER",0,7279,120,2721,74935
+5,6,"VIVIANI, Elia ","Quick - Step Floors","ITA",0,7279,82,1452,73666
+6,6,"VON HOFF, Steele ","UniSA-Australia","AUS",0,7279,70,1112,73326
+7,6,"CONSONNI, Simone ","UAE Team Emirates","ITA",0,7279,89,1700,73914
+8,6,"PEDERSEN, Mads ","Trek - Segafredo","DEN",0,7279,116,2493,74707
+9,6,"BARBERO, Carlos ","Movistar Team","ESP",0,7279,78,1407,73621
+10,6,"SCHMIDT, Mads Würtz ","Team Katusha-Alpecin","DEN",0,7279,114,2484,74698
+11,6,"LATOUR, Pierre ","Ag2R La Mondiale","FRA",0,7279,13,24,72238
+12,6,"DEVENYNS, Dries ","Quick - Step Floors","BEL",0,7279,5,20,72234
+13,6,"CHEREL, Mikael ","Ag2R La Mondiale","FRA",0,7279,20,29,72243
+14,6,"ULISSI, Diego ","UAE Team Emirates","ITA",0,7279,4,20,72234
+15,6,"SÜTTERLIN, Jasha ","Movistar Team","GER",0,7279,72,1195,73409
+16,6,"IZAGIRRE, Gorka ","Bahrain - Merida","ESP",0,7279,7,20,72234
+17,6,"IZAGIRRE, Ion ","Bahrain - Merida","ESP",0,7279,12,24,72238
+18,6,"POZZOVIVO, Domenico ","Bahrain - Merida","ITA",0,7279,14,24,72238
+19,6,"BERNAL, Egan ","Team Sky","COL",0,7279,6,20,72234
+20,6,"BENNETT, George ","Team Lotto NL - Jumbo","NZL",0,7279,11,24,72238
+21,6,"WISNIOWSKI, Lukasz ","Team Sky","POL",0,7279,100,2035,74249
+22,6,"GUERREIRO, Ruben ","Trek - Segafredo","POR",0,7279,9,23,72237
+23,6,"GESINK, Robert ","Team Lotto NL - Jumbo","BEL",0,7279,10,24,72238
+24,6,"EARLE, Nathan ","UniSA-Australia","AUS",0,7279,21,29,72243
+25,6,"SELIG, Rüdiger ","BORA - hansgrohe","GER",0,7279,108,2294,74508
+26,6,"MCCARTHY, Jay ","BORA - hansgrohe","AUS",0,7279,19,29,72243
+27,6,"OOMEN, Sam ","Team Sunweb","NED",0,7279,15,24,72238
+28,6,"HAMILTON, Christopher ","Team Sunweb","AUS",0,7279,16,24,72238
+29,6,"HAAS, Nathan ","Team Katusha-Alpecin","AUS",0,7279,55,825,73039
+30,6,"BATTAGLIN, Enrico ","Team Lotto NL - Jumbo","ITA",0,7279,51,703,72917
+31,6,"SANCHEZ, Luis León ","Astana Pro Team","ESP",0,7279,8,23,72237
+32,6,"PREIDLER, Georg ","FDJ","AUT",0,7279,28,86,72300
+33,6,"SLAGTER, Tom-Jelte ","Team Dimension Data for Qhubeka","NED",0,7279,3,16,72230
+34,6,"RENSHAW, Mark ","Team Dimension Data for Qhubeka","AUS",0,7279,95,1848,74062
+35,6,"DENZ, Nico ","Ag2R La Mondiale","FRA",0,7279,102,2110,74324
+36,6,"IMPEY, Daryl ","Mitchelton-SCOTT","RSA",0,7279,1,0,72214
+37,6,"DOCKER, Mitchell ","Team EF Education First-Drapac p/b Cannondale","AUS",0,7279,83,1462,73676
+38,6,"LAMMERTINK, Maurits ","Team Katusha-Alpecin","NED",0,7279,37,376,72590
+39,6,"PUCCIO, Salvatore ","Team Sky","ITA",0,7279,64,992,73206
+40,6,"SABATINI, Fabio ","Quick - Step Floors","ITA",0,7279,105,2172,74386
+41,6,"SOLER, Marc ","Movistar Team","ESP",0,7279,34,189,72403
+42,6,"PORTE, Richie ","BMC Racing Team","AUS",0,7279,2,0,72214
+43,6,"HANSEN, Adam ","Lotto Soudal","AUS",0,7279,33,184,72398
+44,6,"BAK YTTING, Lars ","Lotto Soudal","DEN",0,7279,27,82,72296
+45,6,"CANTY, Brendan ","Team EF Education First-Drapac p/b Cannondale","AUS",0,7279,22,29,72243
+46,6,"OSS, Daniel ","BORA - hansgrohe","ITA",0,7279,61,943,73157
+47,6,"MONTAGUTI, Mattéo ","Ag2R La Mondiale","ITA",0,7279,79,1414,73628
+48,6,"OLIVEIRA, Nelson ","Movistar Team","POR",0,7279,59,858,73072
+49,6,"ARASHIRO, Yukiya ","Bahrain - Merida","JPN",0,7279,43,540,72754
+50,6,"DEBUSSCHERE, Jens ","Lotto Soudal","BEL",0,7279,118,2509,74723
+51,6,"WYSS, Danilo ","BMC Racing Team","SUI",0,7279,57,827,73041
+52,6,"MORI, Manuele ","UAE Team Emirates","ITA",0,7279,39,394,72608
+53,6,"BEVIN, Patrick ","BMC Racing Team","NZL",0,7279,87,1633,73847
+54,6,"VALGREN ANDERSEN, Michael ","Astana Pro Team","Den",0,7279,26,72,72286
+55,6,"FRAME, Alex ","Trek - Segafredo","NZL",0,7279,121,2849,75063
+56,6,"O'CONNOR, Ben ","Team Dimension Data for Qhubeka","AUS",0,7279,18,26,72240
+57,6,"BOARO, Manuele ","Bahrain - Merida","ITA",0,7279,92,1746,73960
+58,6,"MARCATO, Marco ","UAE Team Emirates","ITA",0,7279,44,597,72811
+59,6,"BEPPU, Fumiyuki ","Trek - Segafredo","JPN",0,7279,63,982,73196
+60,6,"CAPECCHI, Eros ","Quick - Step Floors","ITA",0,7279,29,88,72302
+61,6,"KOCHETKOV, Pavel ","Team Katusha-Alpecin","RUS",0,7279,93,1764,73978
+62,6,"HAYMAN, Mathew ","Mitchelton-SCOTT","AUS",0,7279,60,930,73144
+63,6,"GASTAUER, Ben ","Ag2R La Mondiale","LUX",0,7279,49,680,72894
+64,6,"EG, Niklas ","Trek - Segafredo","DEN",0,7279,36,324,72538
+65,6,"MACHADO, Tiago ","Team Katusha-Alpecin","POR",0,7279,58,830,73044
+66,6,"SCULLY, Tom ","Team EF Education First-Drapac p/b Cannondale","NZL",0,7279,81,1441,73655
+67,6,"BOHLI, Tom ","BMC Racing Team","SUI",0,7279,74,1220,73434
+68,6,"GERRANS, Simon ","BMC Racing Team","AUS",0,7279,41,426,72640
+69,6,"DAVIES, Scott ","Team Dimension Data for Qhubeka","GBR",0,7279,23,45,72259
+70,6,"WYNANTS, Maarten ","Team Lotto NL - Jumbo","NED",0,7279,68,1039,73253
+71,6,"PETERS, Nans ","Ag2R La Mondiale","FRA",0,7279,84,1485,73699
+72,6,"DOULL, Owain ","Team Sky","GBR",0,7279,45,630,72844
+73,6,"MEYER, Cam ","Mitchelton-SCOTT","AUS",0,7279,25,61,72275
+74,6,"MAS NICOLAU, Enric ","Quick - Step Floors","ESP",0,7279,17,24,72238
+75,6,"FERNANDEZ, Ruben ","Movistar Team","ESP",0,7279,50,684,72898
+76,6,"MORKOV, Michael ","Quick - Step Floors","DEN",0,7279,75,1265,73479
+77,6,"LADAGNOUS, Matthieu ","FDJ","FRA",0,7279,80,1426,73640
+78,6,"DE KORT, Koen ","Trek - Segafredo","NED",0,7279,52,720,72934
+79,6,"PORTER, Alex ","UniSA-Australia","AUS",0,7279,101,2067,74281
+80,6,"DIDIER, Laurent ","Trek - Segafredo","LUX",0,7279,31,117,72331
+81,6,"MINALI, Riccardo ","Astana Pro Team","ITA",0,7279,104,2146,74360
+82,6,"MORENO, Daniel ","Team EF Education First-Drapac p/b Cannondale","ESP",0,7279,24,57,72271
+83,6,"SIEBERG, Marcel ","Lotto Soudal","GER",0,7279,109,2347,74561
+84,6,"VENTER, Jaco ","Team Dimension Data for Qhubeka","RSA",0,7279,86,1527,73741
+85,6,"DLAMINI, Nicholas ","Team Dimension Data for Qhubeka","RSA",0,7279,99,2020,74234
+86,6,"EDMONDSON, Alexander ","Mitchelton-SCOTT","AUS",12,7291,76,1375,73589
+87,6,"GONÇALVES, José ","Team Katusha-Alpecin","POR",13,7292,85,1498,73712
+88,6,"TEUNISSEN, Mike ","Team Sunweb","NED",16,7295,54,767,72981
+89,6,"MORTON, Lachlan ","Team Dimension Data for Qhubeka","AUS",18,7297,47,661,72875
+90,6,"CLARKE, William ","Team EF Education First-Drapac p/b Cannondale","AUS",18,7297,65,994,73208
+91,6,"AGNOLI, Valerio ","Bahrain - Merida","ITA",18,7297,46,634,72848
+92,6,"MATOS, Nuno ","Movistar Team","POR",18,7297,67,1035,73249
+93,6,"HAGA, Chad ","Team Sunweb","USA",18,7297,94,1835,74049
+94,6,"DUCHESNE, Antoine ","FDJ","CAN",18,7297,98,1998,74212
+95,6,"SENECHAL, Florian ","Quick - Step Floors","FRA",18,7297,106,2176,74390
+96,6,"DENNIS, Rohan ","BMC Racing Team","AUS",18,7297,30,106,72320
+97,6,"CLARKE, Simon ","Team EF Education First-Drapac p/b Cannondale","AUS",18,7297,38,388,72602
+98,6,"SCOTSON, Miles ","BMC Racing Team","AUS",18,7297,62,969,73183
+99,6,"ROE, Tim ","UniSA-Australia","AUS",18,7297,42,462,72676
+100,6,"DE VRESSE, Laurens ","Astana Pro Team","BEL",18,7297,53,761,72975
+101,6,"STORER, Michael ","Team Sunweb","AUS",18,7297,48,662,72876
+102,6,"VANDENBERGH, Stijn ","Ag2R La Mondiale","BEL",30,7309,40,413,72627
+103,6,"LEEZER, Thomas ","Team Lotto NL - Jumbo","NED",37,7316,73,1218,73432
+104,6,"ARNDT, Nikias ","Team Sunweb","GER",40,7319,56,826,73040
+105,6,"RESTREPO, Jhonatan ","Team Katusha-Alpecin","COL",42,7321,66,1022,73236
+106,6,"COSTA, Rui ","UAE Team Emirates","POR",65,7344,35,191,72405
+107,6,"NAVARDAUSKAS, Ramunas ","Bahrain - Merida","LTU",69,7348,123,3328,75542
+108,6,"ZAKHAROV, Artyom ","Astana Pro Team","KAZ",70,7349,71,1116,73330
+109,6,"DE GENDT, Thomas ","Lotto Soudal","BEL",80,7359,97,1881,74095
+110,6,"CASTRILLO, Jaime ","Movistar Team","ESP",80,7359,107,2221,74435
+111,6,"CIMOLAI, Davide ","FDJ","ITA",80,7359,125,3595,75809
+112,6,"BOWDEN, Scott ","UniSA-Australia","AUS",80,7359,119,2593,74807
+113,6,"BODNAR, Maciej ","BORA - hansgrohe","POL",80,7359,112,2391,74605
+114,6,"WELSFORD, Sam ","UniSA-Australia","AUS",91,7370,124,3394,75608
+115,6,"BONO, Matteo ","UAE Team Emirates","ITA",106,7385,90,1705,73919
+116,6,"WAGNER, Robert ","Team Lotto NL - Jumbo","GER",124,7403,113,2469,74683
+117,6,"OLIVIER, Daan ","Team Lotto NL - Jumbo","NED",130,7409,69,1066,73280
+118,6,"DEMPSTER, Zak ","UniSA-Australia","AUS",130,7409,88,1693,73907
+119,6,"KENNAUGH, Peter ","BORA - hansgrohe","GBR",130,7409,91,1720,73934
+120,6,"BENNETT, Sam ","BORA - hansgrohe","IRL",139,7418,122,3189,75403
+121,6,"GATTO, Oscar ","Astana Pro Team","ITA",163,7442,103,2145,74359
+122,6,"KORSÆTH, Truls ","Astana Pro Team","NOR",163,7442,110,2349,74563
+123,6,"LAWLESS, Christopher ","Team Sky","GBR",203,7482,115,2485,74699
+124,6,"OWEN, Logan ","Team EF Education First-Drapac p/b Cannondale","USA",266,7545,117,2506,74720
+125,6,"HOWSON, Damien ","Mitchelton-SCOTT","AUS",286,7565,111,2379,74593
